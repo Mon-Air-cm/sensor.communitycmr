@@ -22,5 +22,9 @@
 </div>
 <br/><br/>
 <div style="width: 100%; text-align: center;">
-<a href="/imprint/">{% t footer.terms_of_use %}</a> | <a href="/privacy_policy/">{% t footer.privacy_policy %}</a><br/><br/>
+  {% assign lang_path = "" %}
+  {% if site.lang != site.language_default %}
+    {% assign lang_path = site.lang | append: "/" %}
+  {% endif %}
+<a href="/{{ lang_path }}imprint/">{% t footer.terms_of_use %}</a> | <a href="/{{ lang_path }}privacy_policy/">{% t footer.privacy_policy %}</a><br/><br/>
 </div>
