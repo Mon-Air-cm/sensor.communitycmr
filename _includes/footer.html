@@ -1,13 +1,13 @@
-<div style="width: 100%; margin-top: 50px;">
-	<div class="footerlogo">
-		<img src="images/logo_luftdaten.svg" style="padding: 20px; width: 100px;">
+<div id="footer">
+	<div class="footer_logo_div">
+		<img src="/images/logo_luftdaten.svg" class="footer_logo">
 	</div>
 	<div style="display: inline-block; width: 70%;">
 		<div class="footercell">
 			<h4>Main</h4>
-			<a href="https://luftdaten.info/en/construction-manual/">Assembly Guide</a><br/>
-			<a href="https://archive.sensor.community/">Sensor data</a><br/>
-			<a href="https://stats.sensor.community/">Statistics (comming soon)</a><br/>
+			<a href="https://luftdaten.info/en/construction-manual/">{% t footer.assembly_guide %}</a><br/>
+			<a href="https://archive.sensor.community/">{% t footer.sensor_data %}</a><br/>
+			<a href="https://stats.sensor.community/">{% t footer.statistics %}</a><br/>
 		</div>
 		<div class="footercell">
 			<h4>Resources</h4>
@@ -22,5 +22,5 @@
 </div>
 <br/><br/>
 <div style="width: 100%; text-align: center;">
-<a href="#">Terms of Service</a> | <a href="#">Privacy Policy</a><br/><br/>
+<a href="/imprint/">{% t footer.terms_of_use %}</a> | <a href="/privacy_policy/">{% t footer.privacy_policy %}</a><br/><br/>
 </div>

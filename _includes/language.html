@@ -1,0 +1,12 @@
+<div id="language_switch">
+{% for lang in site.languageNames %}
+  {% if lang[0] == site.language_default %}
+    <a href="{{ site.baseurl_root }}{{ page.url }}">{{ lang[1] }}</a>
+  {% else %}
+    <a href="{{ site.baseurl_root }}/{{ lang[0] }}{{ page.url }}">{{ lang[1] }}</a>
+  {% endif %}
+  {% if forloop.last == false %}
+  | 
+  {% endif %}
+{% endfor %}
+</div>

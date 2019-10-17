@@ -3,9 +3,31 @@ body {
 	font-family: Arial;
 	padding: 0px;
 	margin: 0px;
+	text-align: center;
 }
 
-.footerlogo {
+#header {
+	text-align: center;
+}
+
+.header_logo {
+	vertical-align: middle;
+	padding: 10px;
+	width: 80px;
+}
+
+#content {
+	margin: auto;
+	width: 80%;
+	text-align: left;
+}
+
+#footer {
+	width: 100%;
+	margin-top: 50px;
+}
+
+.footer_logo_div {
 	min-width: 10em;
 	width: 23%;
 	text-align: center;
@@ -15,14 +37,23 @@ body {
 	text-align: left;
 }
 
+.footer_logo {
+	padding: 20px;
+	width: 100px;
+}
+
 .footercell {
 	min-width: 10em;
 	width: 30%;
 	text-align: center;
 	vertical-align: top;
-	padding-left:20px;
+	padding-left: 20px;
 	display: inline-block;
 	text-align: left;
+}
+
+#language_switch {
+	text-align: right;
 }
 
 h4 {

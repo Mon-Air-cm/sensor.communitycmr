@@ -1,5 +1,10 @@
 # Config file for luftdaten.info lab map
 
-title: "Local Labs and contacts"
-collections:
-  labs:
+title: "Sensor.Community"
+#languages: ["en","de","es","fr","pl"]
+languages: ["en","de"]
+language_default: 'en'
+languageNames:
+  de: DE
+  en: EN
+exclude_from_localizations: ["images","css"]
