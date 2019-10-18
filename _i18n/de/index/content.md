@@ -1,5 +1,5 @@
 <div style="text-align: center; padding-top: 50px;">
-	<span style="color:#486791; font-size: 120%;">Hilf uns unsere Community noch größer zu machen!</span><br/><br/>
+	<span style="color:#486791; font-size: 120%;">Hilf uns, unsere Community noch größer zu machen!</span><br/><br/>
 	<div style="display:inline-block; background: linear-gradient(104.25deg, #35B6AE 0%, #69B0A8 100%);
 box-shadow: 0px 10px 20px rgba(101, 41, 255, 0.15); border-radius: 30px; padding: 10px 50px; font-size:120%; color: white;">
 <svg style="width:1em; opacity: 0.6;" viewBox="0 0 1208 982" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

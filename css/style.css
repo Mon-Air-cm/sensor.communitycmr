@@ -10,6 +10,10 @@ body {
 	text-align: center;
 }
 
+#header a{
+	text-decoration: none;
+} 
+
 .header_logo {
 	vertical-align: middle;
 	padding: 10px;
@@ -54,6 +58,7 @@ body {
 
 #language_switch {
 	text-align: right;
+	padding: 10px;
 }
 
 #funding, #funding table {
