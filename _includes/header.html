@@ -1,3 +1,7 @@
 <div id="header">
-<h2><img src="/images/logo_luftdaten.svg" class="header_logo" /> Sensor.Community</h2>
+  {% assign lang_path = "" %}
+  {% if site.lang != site.language_default %}
+    {% assign lang_path = site.lang | append: "/" %}
+  {% endif %}
+  <a href="/{{ lang_path }}" style="text-decoration: none;"><h2 style="color: black;"><img src="/images/logo_luftdaten.svg" class="header_logo" /> Sensor.Community</h2></a>
 </div>
