@@ -1,13 +1,15 @@
 ---
-layout:	index
+layout:    index
 
-permalink:	/privacy_policy/
+permalink:    /privacy_policy/
 ---
 
 {% include header.html %}
 
 <div id="content">
-{% include language.html %}
-{% tf privacy_policy/content.md %}
+    <div class="container">
+        {% include language.html %}
+        {% tf privacy_policy/content.md %}
+    </div>
 </div>
 {% include footer.html %}

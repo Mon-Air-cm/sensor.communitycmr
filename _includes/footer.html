@@ -1,30 +1,10 @@
 <div id="footer">
-	<div class="footer_logo_div">
-		<img src="/images/logo_luftdaten.svg" class="footer_logo">
-	</div>
-	<div style="display: inline-block; width: 70%;">
-		<div class="footercell">
-			<h4>Main</h4>
-			<a href="https://luftdaten.info/en/construction-manual/">{% t footer.assembly_guide %}</a><br/>
-			<a href="https://archive.sensor.community/">{% t footer.sensor_data %}</a><br/>
-			<a href="https://stats.sensor.community/">{% t footer.statistics %}</a><br/>
-		</div>
-		<div class="footercell">
-			<h4>Resources</h4>
-			<a href="https://github.com/opendata-stuttgart/">Github</a><br/>
-			<a href="https://data.sensor.community/">API</a><br/>
-		</div>
-		<div class="footercell">
-			<h4>Community</h4>
-			<a href="https://forum.sensor.community/">Discourse (coming soon)</a><br/>
-		</div>
-	</div>
-</div>
-<br/><br/>
-<div style="width: 100%; text-align: center;">
-  {% assign lang_path = "" %}
-  {% if site.lang != site.language_default %}
-    {% assign lang_path = "/" | append: site.lang %}
-  {% endif %}
-<a href="{{ lang_path }}/imprint/">{% t footer.terms_of_use %}</a> | <a href="{{ lang_path }}/privacy_policy/">{% t footer.privacy_policy %}</a><br/><br/>
+    <div style="width: 100%; text-align: center;">
+        {% assign lang_path = "" %}
+        {% if site.lang != site.language_default %}
+        {% assign lang_path = "/" | append: site.lang %}
+        {% endif %}
+        <a href="{{ lang_path }}/imprint/">{% t footer.terms_of_use %}</a> - <a href="{{ lang_path }}/privacy_policy/">{%
+        t footer.privacy_policy %}</a><br/><br/>
+    </div>
 </div>

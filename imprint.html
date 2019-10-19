@@ -7,7 +7,11 @@ permalink: /imprint/
 {% include header.html %}
 
 <div id="content">
-{% include language.html %}
-{% tf imprint/content.md %}
+    <div class="container">
+        {% include language.html %}
+        {% tf imprint/content.md %}
+    </div>
 </div>
-{% include footer.html %}
+<div class="container">
+    {% include footer.html %}
+</div>
