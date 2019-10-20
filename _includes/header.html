@@ -1,7 +1,8 @@
 <div id="header">
-  {% assign lang_path = "" %}
-  {% if site.lang != site.language_default %}
+    {% assign lang_path = "" %}
+    {% if site.lang != site.language_default %}
     {% assign lang_path = "/" | append: site.lang %}
-  {% endif %}
-  <a href="{{ lang_path }}/"><h2 style="color: black;"><img src="/images/logo_luftdaten.svg" class="header_logo" /> Sensor.Community</h2></a>
+    {% endif %}
+    <a href="{{ lang_path }}/"><h2 style="color: black;"><img src="/images/logo_luftdaten.svg" class="header_logo"/>
+        Sensor.Community</h2></a>
 </div>
