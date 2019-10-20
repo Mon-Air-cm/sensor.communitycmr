@@ -4,7 +4,8 @@ These are the source files for the site sensor.community.
 
 ## Setup
 
-You first need to install git Ruby and gem.
+You first need to install git, Ruby, jekyll.
+https://jekyllrb.com/docs/installation/ubuntu/
 
 Then get the dependencies:
 ```
