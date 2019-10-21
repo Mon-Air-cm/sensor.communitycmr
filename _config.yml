@@ -1,4 +1,4 @@
-# Config file for luftdaten.info lab map
+# Config file for sensor.community site
 
 title: "Sensor.Community"
 
@@ -6,12 +6,10 @@ languageNames:
   de: DE
   en: EN
 
-
 exclude_from_localizations: ["images","css"]
 
-
-# add this plugin to gems
-gems:           ['jekyll-multiple-languages']
+plugins:
+  - jekyll-multiple-languages-plugin
 
 # The all languages used
 languages:          ['en', 'de']
