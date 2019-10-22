@@ -1,6 +1,21 @@
 footer:
-  assembly_guide: Assembly guide
+  mission: Mission
+
+  data: data
   sensor_data: Sensor data
   statistics: Statistics
-  terms_of_use: Terms of service
+
+  community_projects: Community projects
+
+  assembly_guide: Assembly guide
+  guide_pm_sensor_text: Particulate matter sensor
+  guide_pm_sensor_link: https://luftdaten.info/en/construction-manual/
+
   privacy_policy: Privacy policy
+  terms_of_use: Terms of service
+
+community_projects:
+  apps: (Web)Apps
+  local_heroes: Local Heroes
+  partner: Partner
+  analysis_tools: Analysis tools

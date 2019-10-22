@@ -1,0 +1,19 @@
+---
+layout: index
+
+namespace: mission
+
+permalink: /mission/
+permalink_de: /mission/
+---
+
+{% include header.html %}
+
+<div id="content">
+    <div class="container">
+        {% include language.html %}
+        {% tf mission/content.md %}
+    </div>
+</div>
+{% include menu.html %}
+{% include footer.html %}

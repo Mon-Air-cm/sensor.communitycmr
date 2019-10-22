@@ -5,18 +5,32 @@
         </div>
         <div style="display: inline-block; width: 70%;">
             <div class="footercell">
-                <h4>Main</h4>
-                <a href="https://luftdaten.info/en/construction-manual/">{% t footer.assembly_guide %}</a><br/>
+                <h4>{% t footer.mission %}</h4>
+                <a href="{% tl mission %}">{% t footer.mission %}</a><br/>
+            </div>
+            <div class="footercell">
+                <h4>{% t footer.data %}</h4>
                 <a href="https://archive.sensor.community/">{% t footer.sensor_data %}</a><br/>
                 <a href="https://stats.sensor.community/">{% t footer.statistics %}</a><br/>
             </div>
             <div class="footercell">
-                <h4>Resources</h4>
+                <h4>{% t footer.community_projects %}</h4>
+                <a href="{% tl apps%}">{% t community_projects.apps %}</a><br/>
+                <a href="{% tl local_heroes%}">{% t community_projects.local_heroes %}</a><br/>
+                <a href="{% tl partner%}">{% t community_projects.partner %}</a><br/>
+                <a href="{% tl analysis_tools%}">{% t community_projects.analysis_tools %}</a><br/>
+            </div>
+            <div class="footercell">
+                <h4>{% t footer.assembly_guide %}</h4>
+                <a href="{% t footer.guide_pm_sensor_link %}">{% t footer.guide_pm_sensor_text %}</a><br/>
+            </div>
+            <div class="footercell">
+                <h4>Code</h4>
                 <a href="https://github.com/opendata-stuttgart/">Github</a><br/>
                 <a href="https://data.sensor.community/">API</a><br/>
             </div>
             <div class="footercell">
-                <h4>Community</h4>
+                <h4>FAQ</h4>
                 <a href="https://forum.sensor.community/">Discourse (coming soon)</a><br/>
             </div>
         </div>
