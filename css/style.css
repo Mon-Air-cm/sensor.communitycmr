@@ -1,10 +1,10 @@
 body {
     background: #EEEEEE;
-    font-family: Arial, serif;
+    font-family: Arial,Helvetica,sans-serif;
     padding: 0;
     margin: 0;
     text-align: center;
-    font-size: 18px;
+    font-size: 120%;
 }
 
 #menu {
@@ -17,15 +17,19 @@ a, a:visited, a:hover, a:focus, a:active {
 }
 
 #menu .footercell {
-    min-width: 10em;
-    width: 30%;
+    width: auto;
     vertical-align: top;
     padding-left: 20px;
     display: inline-block;
     text-align: left;
+    padding-bottom: 20px;
 }
 
-
+#menu h4 {
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+	
 #header {
     text-align: center;
 }
@@ -50,7 +54,6 @@ h4 {
     text-transform: uppercase;
 }
 
-
 #content {
     margin: auto;
     width: 80%;
@@ -58,11 +61,12 @@ h4 {
 }
 
 .container {
-    width: 80%;
+    width: 70%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    text-align: left;
 }
 
 #footer {
@@ -77,15 +81,13 @@ h4 {
 }
 
 .logo {
-    min-width: 10em;
     vertical-align: top;
-    padding-left: 20px;
+    padding: 20px 0 0 0;
     display: inline-block;
     text-align: left;
 }
 
 .footer_logo {
-    padding: 20px;
     width: 100px;
 }
 

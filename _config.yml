@@ -1,5 +1,7 @@
 # Config file for sensor.community site
 
+baseurl: ""
+
 title: "Sensor.Community"
 
 languageNames:
