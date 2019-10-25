@@ -1,0 +1,21 @@
+footer:
+  mission: Mission
+
+  data: Données
+  sensor_data: Données des capteurs
+  statistics: Statistiques
+
+  community_projects: Projets de la communauté
+
+  assembly_guide: Guide de montage
+  guide_pm_sensor_text: Détecteur de particules fines
+  guide_pm_sensor_link: https://luftdaten.info/fr/montage-detecteur-de-particules-fines/
+
+  privacy_policy: Charte de confidentialité
+  terms_of_use: Mentions légales
+
+community_projects:
+  apps: (Web)Apps
+  local_heroes: Acteurs locaux
+  partner: Partenaires
+  analysis_tools: Outils d'évaluation
