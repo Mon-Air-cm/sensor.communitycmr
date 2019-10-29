@@ -1,5 +1,6 @@
 <div id="language_switch">
     {% for lang in site.languageNames %}
 		<a href="{% tl {{ page.namespace }} {{ lang[0] }} %}" >{{ lang[1] }}</a>
+		{% if forloop.last == false %} | {% endif %}
     {% endfor %}
 </div>
