@@ -1,6 +1,6 @@
 # sensor.community
 
-These are the source files for the site sensor.community.
+These are the source files for the site main website of the project sensor.community.
 
 ## Setup
 
@@ -12,9 +12,8 @@ Then get the dependencies:
 gem install bundler
 bundler install
 ```
-
+  
 You can now build and serve the site:
 ```
 bundler exec jekyll serve
 ```
-
