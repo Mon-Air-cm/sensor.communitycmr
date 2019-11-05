@@ -7,6 +7,7 @@ title: "Sensor.Community"
 languageNames:
   de: DE
   en: EN
+  fr: FR
 
 exclude_from_localizations: ["images","css"]
 
@@ -14,7 +15,7 @@ plugins:
   - jekyll-multiple-languages-plugin
 
 # The all languages used
-languages:          ['en', 'de']
+languages:          ['en', 'de', 'fr']
 
 # If not config, the first item of languages will be used as the default.
 language_default:   'en'
