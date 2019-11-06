@@ -30,7 +30,9 @@ L'aperçu suivant résume les types de données traitées, les objectifs de leur
 
 <h3>Types de données traitées</h3>
 * Données de contenu (saisies de texte, photographies, vidéos) 
+
 * Métadonnées/Données de communication (par exemple, informations sur le matériel, adresses IP)
+
 * Données d'usage (par exemple, sites internet visités, intérêt du contenu, temps passé)
 
 <h3>Catégorie des personnes concernées</h3>
@@ -69,9 +71,11 @@ L'utilisation des données de contact publiées dans le cadre de l'obligation de
 
 Les cookies sont des fichiers texte contenant des données sur les sites internet consultés. Ils sont enregistrés par le navigateur dans l'ordinateur de l'utilisateur. En premier lieu, un cookie sert à enregistrer les informations sur un utilisateur pendant ou après sa visite d'une offre en ligne. Par exemple, les informations recueillies peuvent concerner les options de langue choisies sur un site internet, les statuts de connexion, un panier d'achat ou bien la position jusqu'à laquelle une vidéo a été regardée. Sous le terme "cookie", nous regroupons en outre d'autres technologies assurant les mêmes fonctions (par exemple, lorsque les informations sur l'utilisateur ont été enregistrées au travers d'un identifiant en ligne pseudonyme, également dénommé "ID-utilisateur").
 
-**Les types de cookie et les fonctions suivantes sont discriminées :**
+**Les types de cookie et les fonctions suivantes sont discriminés :**
 * **Cookies temporaires (également : cookies de session):** Les cookies temporaires sont supprimés au plus tard après que l'utilisateur a quitté une offre en ligne ou fermé son navigateur. 
+
 * **Cookies permanents :** Les cookies permanents restent enregistrés après la fermeture du navigateur. Par exemple, des statuts de connexion peuvent être enregistrés ou les contenus préférés peuvent être directement affichés, lors d'une visite ultérieure du site internet. De même, les intérêts des utilisateurs servant aux mesures d'audience ou bien à des fins de marketing peuvent être enregistrés dans ces cookies.
+
 * **First-Party-Cookies:** Les cookies de premier niveau (First-Party-Cookies) sont crées par nous-mêmes. 
 
 **Précisions sur les bases légales :** La base légale à laquelle répondent les traitements que nous apliquons à vos données à caractère personnel dépendent de la demande de votre consentement de notre part. Si cela s'applique et que vous consentez à l'utilisation de cookies, la base légale du traitement de vos données est ce consentement déclaré. Dans les autres cas, les données traitées à l'aide de cookies sont traitées sur la base de nos intérêts légitimes (par exemple, dans le cadre de la gestion de l'activité de notre offre en ligne) ou bien, si l'utilisation de cookies est nécessaire, pour remplir nos obligations contractuelles.
@@ -81,6 +85,7 @@ Les cookies sont des fichiers texte contenant des données sur les sites interne
 * **Types de données traités :** Données d'utilisateur (par exemple, les sites internet visités, l'intérêt aux contenus, les durée de visite), métadonnées et données de communication (par exemple, informations sur l'appareil, adresses IP).
 
 * **Personnes concernées :** Utilisateur (par exemple, visiteur des pages internet, utilisateur du service en ligne).
+
 * **Bases légales :** Consentement (Article 6 Paragraphe 1 Page 1 Lettre a RGPD), intérêts légitimes (Article 6 Paragraphe 1 Page 1 Lettre f RGPD).
 
 <h2 id="m42">Définitions des termes utilisés</h2>
