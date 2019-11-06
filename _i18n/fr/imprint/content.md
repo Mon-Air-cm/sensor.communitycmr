@@ -1,5 +1,5 @@
 <h2>Mentions légales</h2>
-Informations selon § 5 de la loi allemande sur les télémédia (TMG)<br/>
+Informations selon § 5 de la loi allemande sur les télémédias (TMG)<br/>
 <br/>
 System.Luftdaten.info GbR<br/>
 Grabenstetter Str. 20<br/>
