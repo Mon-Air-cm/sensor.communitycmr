@@ -10,6 +10,8 @@ footer:
   assembly_guide: Assembly guide
   guide_pm_sensor_text: Particulate matter sensor
   guide_pm_sensor_link: https://luftdaten.info/en/construction-manual/
+  guide_noise_sensor_text: Noise sensor (german)
+  guide_noise_sensor_link: https://luftdaten.info/laermsensor-bauen/
 
   privacy_policy: Privacy policy
   terms_of_use: Terms of service

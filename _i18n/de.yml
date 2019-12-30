@@ -10,6 +10,8 @@ footer:
   assembly_guide: Bauanleitung
   guide_pm_sensor_text: Feinstaubsensor
   guide_pm_sensor_link: https://luftdaten.info/feinstaubsensor-bauen/
+  guide_noise_sensor_text: Lärmsensor
+  guide_noise_sensor_link: https://luftdaten.info/laermsensor-bauen/
 
   privacy_policy: Datenschutzerklärung
   terms_of_use: Impressum

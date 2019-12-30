@@ -10,6 +10,8 @@ footer:
   assembly_guide: Guide de montage
   guide_pm_sensor_text: Détecteur de particules fines
   guide_pm_sensor_link: https://luftdaten.info/fr/montage-detecteur-de-particules-fines/
+  guide_noise_sensor_text: Détecteur de bruit
+  guide_noise_sensor_link: https://luftdaten.info/fr/detecteur-de-bruit/
 
   privacy_policy: Charte de confidentialité
   terms_of_use: Mentions légales
