@@ -4,6 +4,7 @@ footer:
   data: Données
   sensor_data: Données des capteurs
   statistics: Statistiques
+  status: État du réseau
 
   community_projects: Projets de la communauté
 

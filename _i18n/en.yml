@@ -4,6 +4,7 @@ footer:
   data: data
   sensor_data: Sensor data
   statistics: Statistics
+  status: Network status
 
   community_projects: Community projects
 
